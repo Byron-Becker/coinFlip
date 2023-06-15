@@ -220,7 +220,10 @@ and checks each part of the selector against it's ancestor element
 at the same time it is calculating the specifity of the selectors
 if the 
 
-
+parses the selectors from the stylesheet, matches them with the elements in the DOM, 
+traverses more complex selectors from the right to left
+while calculating the specifity.  Applies the highest specifity
+selector and if same then the cascade takes precedent and the latter is applied
 
 
 
