@@ -125,7 +125,8 @@ asdfsdf
 // cURL is CLI and can be both client/server.  Can make http requests,
 ftp requests, can work with different OS
 
-
+// objects represents action and behaviors of something used
+in a program    
 
 
 
