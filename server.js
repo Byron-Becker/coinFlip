@@ -121,6 +121,9 @@ asdfsdf
 
 // objects represent the actions and behaviors of something that is used in a program
 
+// fetch is client side javascript that makes http requests
+// cURL is CLI and can be both client/server.  Can make http requests,
+ftp requests, can work with different OS
 
 
 
