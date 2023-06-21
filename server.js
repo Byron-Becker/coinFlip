@@ -119,6 +119,8 @@ asdfsdf
 // a factory function uses return a
 // constructor function useds this
 
+// objects represent the actions and behaviors of something that is used in a program
+
 
 
 
