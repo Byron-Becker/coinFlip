@@ -69,10 +69,10 @@ it is running it as a scri
 // email, time, date, number, url, text, tel
 
 @media all and (max-width:1024px) {
-    
+
 }
 
-
+g
 
 
 
