@@ -68,7 +68,9 @@ it is running it as a scri
 // keeps code lean and specifity weigths low
 // email, time, date, number, url, text, tel
 
-
+@media all and (max-width:1024px) {
+    
+}
 
 
 
