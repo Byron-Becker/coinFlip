@@ -66,7 +66,7 @@ it is running it as a scri
 100%,0  100$
 
 // keeps code lean and specifity weigths low
-
+// email, time, date, number, url, text, tel
 
 
 
