@@ -65,6 +65,8 @@ it is running it as a scri
 0,0  100%,0
 100%,0  100$
 
+// keeps code lean and specifity weigths low
+
 
 
 
