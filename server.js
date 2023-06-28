@@ -61,6 +61,10 @@ app.set('ejs', viewengine)
 
 it is running it as a scri 
 
+// value vector is horizontal and then vertical
+0,0  100%,0
+100%,0  100$
+
 
 
 
