@@ -57,6 +57,7 @@ padding trick
 // databases which control user access, collections and then documents which have the key-value pairs
 
 
+app.set('ejs', viewengine)
 
 
 
