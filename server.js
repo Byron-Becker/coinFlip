@@ -59,6 +59,7 @@ padding trick
 
 app.set('ejs', viewengine)
 
+it is running it as a scri 
 
 
 
