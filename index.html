@@ -105,7 +105,11 @@ a browser determines what elements match a css selector
 based on the css rule with the highest specifity for that element which may have multiple rules targeting it
 it does this by starting with the far right selector which is known as the key selector
 
-
+every element container has a height and width property
+within this box they have a content, paddding,border, and margin
+I would set it up for border-box so that layout calculations
+would be easier as you would not have to account for the changing
+size of the content box
 
 
 
