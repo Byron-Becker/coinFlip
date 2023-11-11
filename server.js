@@ -48,7 +48,9 @@ an array like object is something that has a .length but not a methods
 
 style variant weight size height family
 
-
+// document type declaration tells the browser what version of html to render, this
+// allows for consistent rendering across different browsers
+// and browsers won't have to guess the layout
 
 
 
