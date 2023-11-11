@@ -46,7 +46,7 @@ an array like object is something that has a .length but not a methods
 // figure is a block lvel elemn used to group together media, and it operates seperate from the flow of the page
 // fig caption
 
-
+style variant weight size height family
 
 
 
