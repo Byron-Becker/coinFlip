@@ -92,7 +92,7 @@ asdfsdf
 math object acts as a container fo rmathematical methods
 // pow, abs, floor, ciel, round, max, min,sqrt, random
 
-
+// textContent is preferred because it does it without styling
 
 
 
