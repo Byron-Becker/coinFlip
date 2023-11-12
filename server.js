@@ -18,6 +18,8 @@ app.listen(PORT, (req,res) => {
 
 // hide the details show the essentials, simple, managemable, and 
 
+// textContent is raw an inn
+// textContent is preferred
 
 
 
