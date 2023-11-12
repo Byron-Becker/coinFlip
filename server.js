@@ -22,6 +22,10 @@ app.listen(PORT, (req,res) => {
 // textContent is preferred
 
 .split
+// the function will return a promise
+// async before a function represents a value that will be resolved now
+//  it is accessible with .catch and .then which ahve callbacks to deal with resolve or faluer
+// 
 
 
 
