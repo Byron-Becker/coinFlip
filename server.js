@@ -21,7 +21,7 @@ app.listen(PORT, (req,res) => {
 // textContent is raw an inn
 // textContent is preferred
 
-
+.split
 
 
 
