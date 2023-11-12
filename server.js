@@ -26,6 +26,10 @@ app.listen(PORT, (req,res) => {
 // async before a function represents a value that will be resolved now
 //  it is accessible with .catch and .then which ahve callbacks to deal with resolve or faluer
 // 
+// higher order functions are powerful because they allow you to apply generic 
+// operations to many different types of data
+// allow for improved abstraction because they do not require the need for intermediate variables or explicit loops or control structures
+
 
 
 
