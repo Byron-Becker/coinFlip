@@ -16,7 +16,7 @@ app.listen(PORT, (req,res) => {
 
 // innerText, textContent, or innerHTML
 
-
+// hide the details show the essentials, simple, managemable, and 
 
 
 
