@@ -12,3 +12,30 @@ app.listen(PORT, (req,res) => {
 // null, undefined, nan, false, zero or -0, empty string
 // any array,function or object that has something or is empty
 // nonzero, string, date, symbol
+
+
+// innerText, textContent, or innerHTML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
