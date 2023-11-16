@@ -41,7 +41,7 @@ an array like object is something that has a .length but not a methods
 
 })
 
-// 
+// fix to the viewport, absoulate position withing
 
 
 
