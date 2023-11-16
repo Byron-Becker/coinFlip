@@ -37,6 +37,12 @@ const func = (str,c) => (str.match(new RegExp(c, 'ig')||[])).length
 an array like object is something that has a .length but not a methods
 // object, string, 
 
+// let promise = new Promise(function(resolve, reject){
+
+})
+
+// 
+
 
 
 
