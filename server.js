@@ -43,6 +43,10 @@ an array like object is something that has a .length but not a methods
 
 // fix to the viewport, absoulate position withing
 
+// figure is a block lvel elemn used to group together media, and it operates seperate from the flow of the page
+// fig caption
+
+
 
 
 
