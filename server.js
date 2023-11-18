@@ -94,8 +94,13 @@ math object acts as a container fo rmathematical methods
 
 // textContent is preferred because it does it without styling
 
+//  objects are a collection of properties and methods, they are the 
+//  objects are a collection of variable and functions
+//  represents attributes and behaviors of something used in a program
 
-
+// an object is a collection of variables (properties) and functions (methods)
+// they are characteristics and actions of something in a proram
+key-value paired
 
 
 
