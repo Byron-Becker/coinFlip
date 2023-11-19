@@ -87,6 +87,7 @@ asdfsdf
 // arrays is an ordered collections of pieces of data indexed starting at zero
 // can do number ob
 
+// not a number:  represents and undefined or unrepresentable mathemtatical operation
 
 
 
