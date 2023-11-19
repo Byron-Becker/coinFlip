@@ -84,5 +84,44 @@ zoom: 1
 textarea, select, input, fieldset, legend, button, label
 asdfsdf
 
+// arrays is an ordered collections of pieces of data indexed starting at zero
+// can do number ob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
