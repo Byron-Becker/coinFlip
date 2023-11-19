@@ -89,7 +89,8 @@ asdfsdf
 
 // not a number:  represents and undefined or unrepresentable mathemtatical operation
 
-
+math object acts as a container fo rmathematical methods
+// pow, abs, floor, ciel, round, max, min,sqrt, random
 
 
 
