@@ -81,7 +81,7 @@ select
 
 zoom: 1
 
-
+textarea, select, input, fieldset, legend, button, label
 
 
 
