@@ -116,7 +116,8 @@ asdfsdf
 //and actionsof th
 // they represent the attributes and behaviors of something used in aprogram
 
-
+// a factory function uses return a
+// constructor function useds this
 
 
 
