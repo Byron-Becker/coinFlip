@@ -102,7 +102,7 @@ math object acts as a container fo rmathematical methods
 // they are characteristics and actions of something in a proram
 key-value paired
 
-
+alksdjf
 
 
 
