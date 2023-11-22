@@ -110,6 +110,12 @@ asdfsdf
 
 // a simple interface to interact with a complex system
 
+// objects are a collection of variables and functions called proeprties and methods
+//  methods are properties
+//  they have keyed collections, they represents the characterisitics
+//and actionsof th
+// they represent the attributes and behaviors of something used in aprogram
+
 
 
 
